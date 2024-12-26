@@ -1,0 +1,229 @@
+{
+  "HomePage": {
+    "title": "Create Landing Page with AI Power",
+    "description": "Design and launch high-converting landing pages with ease using AI. Ship Fast with your ideas.",
+    "header": {
+      "brand": {
+        "title": "Joey's",
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "Pricing",
+            "url": "#pricing"
+          },
+          {
+            "title": "Generators",
+            "url": "#generators"
+          },
+          {
+            "title": "Showcases",
+            "url": "#showcases"
+          },
+          {
+            "title": "Templates",
+            "url": "#templates"
+          }
+        ]
+      },
+      "buttons": {
+        "signIn": "Sign In"
+      }
+    },
+    "hero": {
+      "title": "Create Landing Page with AI Power",
+      "description": "Design and launch high-converting landing pages with ease using AI. Ship Fast with your ideas.",
+      "buttons": {
+        "start": "Start for free",
+        "vote": "Vote on ProductHunt"
+      }
+    },
+    "sections": {
+      "what": {
+        "title": "What is AI Landing Page",
+        "description": "Our AI landing page generator simplifies the process of creating effective landing pages. With its intuitive interface and smart algorithms, you can generate pages that convert visitors into customers.",
+        "features": [
+          {
+            "title": "Landing Page Generator",
+            "description": "We can help to generate landing page quickly from your idea"
+          },
+          {
+            "title": "Page Content Generator",
+            "description": "Generate high-quality page content with AI"
+          },
+          {
+            "title": "Variety Templates",
+            "description": "Multiple built-in page templates to make landing page looks great"
+          }
+        ]
+      },
+      "why": {
+        "title": "Why Choose Us",
+        "description": "We stand out with user-friendly design, powerful AI capabilities, and customizable templates that cater to various industries. It saves you time and enhances your marketing efforts.",
+        "features": [
+          {
+            "title": "Ship Fast",
+            "description": "Create landing page in seconds"
+          },
+          {
+            "title": "Easy to use",
+            "description": "Just need a product name from your idea"
+          },
+          {
+            "title": "AI Powered",
+            "description": "Generate high-quality page content with AI"
+          }
+        ]
+      },
+      "how": {
+        "title": "How to Use",
+        "description": "Getting started is simple and quick. Follow these steps to create your first landing page:",
+        "steps": [
+          {
+            "title": "1. Describe your Idea",
+            "description": "Give a product name and a simple description to the AI Landing Page Generator."
+          },
+          {
+            "title": "2. Choose a Template",
+            "description": "Select from a variety of professionally designed templates that suit your needs."
+          },
+          {
+            "title": "3. Customize Your Page",
+            "description": "Use our AI tools to personalize your landing page with text, images, and branding."
+          }
+        ],
+        "cta": "Ready to try 👉"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "description": "Explore the powerful features that make us the best choice for landing page creation.",
+      "items": [
+        {
+          "title": "AI-Powered Design",
+          "description": "Harness the power of AI to automatically generate beautiful and responsive landing page designs tailored to your brand and target audience."
+        },
+        {
+          "title": "Customizable Templates",
+          "description": "Choose from a wide range of customizable templates that fit your brand's style and message."
+        },
+        {
+          "title": "SEO Optimization",
+          "description": "Built-in SEO tools to help your landing pages rank higher in search engines and attract more visitors."
+        },
+        {
+          "title": "Analytics Integration",
+          "description": "Track the performance of your landing pages with integrated analytics tools to optimize your campaigns."
+        },
+        {
+          "title": "Mobile Responsiveness",
+          "description": "All landing pages created are fully responsive, ensuring a seamless experience on any device."
+        },
+        {
+          "title": "User-Friendly Interface",
+          "description": "An intuitive drag-and-drop interface that makes it easy for anyone to create stunning landing pages without any coding skills."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "What Users Say",
+      "description": "Hear from our satisfied users who have transformed their landing page creation process.",
+      "items": [
+        {
+          "name": "Mike Jordan",
+          "title": "Full-stack Developer",
+          "description": "I love this tool so much, it's awesome! It has made my landing page creation process so much easier."
+        },
+        {
+          "name": "Sarah Lee",
+          "title": "Marketing Manager",
+          "description": "The AI technology is a game changer. I can create landing pages in minutes!"
+        },
+        {
+          "name": "Tom Smith",
+          "title": "Entrepreneur",
+          "description": "The templates are beautiful and customizable. I highly recommend it!"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about using our service.",
+      "items": [
+        {
+          "title": "How many pages can I generate?",
+          "description": "You can generate 3 pages as default, get more credits for page generation when you upgrade to Pro."
+        },
+        {
+          "title": "Is there a free trial available?",
+          "description": "Yes, we offer a free trial so you can explore its features before committing."
+        },
+        {
+          "title": "Can I integrate with other tools?",
+          "description": "Absolutely! Our service integrates seamlessly with various marketing and analytics tools."
+        },
+        {
+          "title": "Do I need coding skills?",
+          "description": "No coding skills are required! Our platform is designed for users of all skill levels."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Can't wait to use it?",
+      "description": "Just start from here, make your idea to be seen",
+      "button": "Try Now"
+    },
+    "footer": {
+      "brand": {
+        "title": "Joey's",
+        "description": "An AI-powered page generator designed to help businesses and marketers effortlessly create high-converting landing pages that drive results."
+      },
+      "copyright": "© 2024 • All rights reserved.",
+      "social": {
+        "items": [
+          {
+            "title": "Twitter",
+            "url": "#"
+          },
+          {
+            "title": "ProductHunt",
+            "url": "#"
+          },
+          {
+            "title": "Discord",
+            "url": "#"
+          },
+          {
+            "title": "Email",
+            "url": "mailto:example@example.com"
+          }
+        ]
+      },
+      "nav": {
+        "products": {
+          "title": "Products",
+          "items": [
+            {
+              "title": "Landing Page Generator",
+              "url": "#"
+            }
+          ]
+        },
+        "services": {
+          "title": "Services",
+          "items": [
+            {
+              "title": "Privacy Policy",
+              "url": "/privacy-policy"
+            },
+            {
+              "title": "Terms of Service",
+              "url": "/terms-of-service"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "HomePage": {
+    "title": "AI 智能落地页生成器",
+    "description": "使用 AI 轻松设计和发布高转化率的落地页。让您的想法快速实现。",
+    "header": {
+      "brand": {
+        "title": "Joey's",
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "定价",
+            "url": "#pricing"
+          },
+          {
+            "title": "生成器",
+            "url": "#generators"
+          },
+          {
+            "title": "案例展示",
+            "url": "#showcases"
+          },
+          {
+            "title": "模板",
+            "url": "#templates"
+          }
+        ]
+      },
+      "buttons": {
+        "signIn": "登录"
+      }
+    },
+    "hero": {
+      "title": "使用 AI 智能创建落地页",
+      "description": "使用 AI 轻松设计和发布高转化率的落地页。快速实现您的想法。",
+      "buttons": {
+        "start": "免费开始",
+        "vote": "在 ProductHunt 上投票"
+      }
+    },
+    "sections": {
+      "what": {
+        "title": "什么是 AI 落地页",
+        "description": "我们的 AI 落地页生成器简化了创建高效落地页的过程。通过直观的界面和智能算法，您可以生成能够将访问者转化为客户的页面。",
+        "features": [
+          {
+            "title": "落地页生成器",
+            "description": "我们可以根据您的想法快速生成落地页"
+          },
+          {
+            "title": "页面内容生成器",
+            "description": "使用 AI 生成高质量的页面内容"
+          },
+          {
+            "title": "丰富的模板",
+            "description": "内置多种页面模板，让落地页看起来更出色"
+          }
+        ]
+      },
+      "why": {
+        "title": "为什么选择我们",
+        "description": "我们以用户友好的设计、强大的 AI 功能和适用于各行业的可定制模板而脱颖而出。为您节省时间，提升营销效果。",
+        "features": [
+          {
+            "title": "快速发布",
+            "description": "几秒钟内创建落地页"
+          },
+          {
+            "title": "简单易用",
+            "description": "只需要提供产品名称和想法"
+          },
+          {
+            "title": "AI 驱动",
+            "description": "使用 AI 生成高质量页面内容"
+          }
+        ]
+      },
+      "how": {
+        "title": "如何使用",
+        "description": "开始使用简单快捷。按照以下步骤创建您的第一个落地页：",
+        "steps": [
+          {
+            "title": "1. 描述您的想法",
+            "description": "向 AI 落地页生成器提供产品名称和简单描述。"
+          },
+          {
+            "title": "2. 选择模板",
+            "description": "从各种专业设计的模板中选择最适合您需求的一个。"
+          },
+          {
+            "title": "3. 自定义页面",
+            "description": "使用我们的 AI 工具通过文本、图片和品牌元素个性化您的落地页。"
+          }
+        ],
+        "cta": "准备尝试 👉"
+      }
+    },
+    "features": {
+      "title": "核心功能",
+      "description": "探索使我们成为创建落地页最佳选择的强大功能。",
+      "items": [
+        {
+          "title": "AI 驱动设计",
+          "description": "利用 AI 的力量自动生成适合您品牌和目标受众的精美响应式落地页设计。"
+        },
+        {
+          "title": "可定制模板",
+          "description": "从众多可定制模板中选择，适应您的品牌风格和信息。"
+        },
+        {
+          "title": "SEO 优化",
+          "description": "内置 SEO 工具，帮助您的落地页在搜索引擎中排名更高，吸引更多访问者。"
+        },
+        {
+          "title": "数据分析集成",
+          "description": "通过集成的分析工具跟踪落地页性能，优化您的营销活动。"
+        },
+        {
+          "title": "移动端响应",
+          "description": "所有创建的落地页都完全响应式，确保在任何设备上都有完美的体验。"
+        },
+        {
+          "title": "用户友好界面",
+          "description": "直观的拖放界面，让任何人都能轻松创建令人惊叹的落地页，无需编程技能。"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "用户评价",
+      "description": "听听我们满意用户的转变历程。",
+      "items": [
+        {
+          "name": "麦克",
+          "title": "全栈开发者",
+          "description": "我非常喜欢这个工具，太棒了！它让我的落地页创建过程变得简单多了。"
+        },
+        {
+          "name": "莎拉",
+          "title": "市场经理",
+          "description": "AI 技术真是改变游戏规则的工具。我现在几分钟就能创建落地页！"
+        },
+        {
+          "name": "汤姆",
+          "title": "创业者",
+          "description": "模板既美观又可定制。我强烈推荐这个工具！"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "查找使用我们服务的常见问题答案。",
+      "items": [
+        {
+          "title": "我可以生成多少页面？",
+          "description": "默认可以生成 3 个页面，升级到专业版后可以获得更多页面生成额度。"
+        },
+        {
+          "title": "是否提供免费试用？",
+          "description": "是的，我们提供免费试用，让您在付费前可以探索所有功能。"
+        },
+        {
+          "title": "可以与其他工具集成吗？",
+          "description": "当然可以！我们的服务可以无缝集成各种营销和分析工具。"
+        },
+        {
+          "title": "需要编程技能吗？",
+          "description": "不需要任何编程技能！我们的平台专为各种技能水平的用户设计。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "等不及要使用了吗？",
+      "description": "从这里开始，让您的想法被看见",
+      "button": "立即使用"
+    },
+    "footer": {
+      "brand": {
+        "title": "Joey's",
+        "description": "一个由 AI 驱动的页面生成器，旨在帮助企业和营销人员轻松创建能带来转化的落地页。"
+      },
+      "copyright": "© 2024 • 保留所有权利。",
+      "social": {
+        "items": [
+          {
+            "title": "推特",
+            "url": "#"
+          },
+          {
+            "title": "ProductHunt",
+            "url": "#"
+          },
+          {
+            "title": "Discord",
+            "url": "#"
+          },
+          {
+            "title": "邮件",
+            "url": "mailto:example@example.com"
+          }
+        ]
+      },
+      "nav": {
+        "products": {
+          "title": "产品",
+          "items": [
+            {
+              "title": "落地页生成器",
+              "url": "#"
+            }
+          ]
+        },
+        "services": {
+          "title": "服务",
+          "items": [
+            {
+              "title": "隐私政策",
+              "url": "/privacy-policy"
+            },
+            {
+              "title": "服务条款",
+              "url": "/terms-of-service"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
